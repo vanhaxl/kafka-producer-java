@@ -1,0 +1,4 @@
+.DS_Store
+.idea/
+kafka-producer-java.iml
+target/
